@@ -1,4 +1,4 @@
-# Requirements needed when generating releases. See BUILD.rst for details.
+# Requirements needed when generating releases. See BUILD.rst for details. Update to trigger build
 invoke >= 0.20
 rellu >= 0.6
 docutils >= 0.14
